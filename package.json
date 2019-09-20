@@ -1,0 +1,16 @@
+{
+  "name": "my-r",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/react.js",
+  "scripts": {
+    "start": "parcel ./index.html"
+  },
+  "author": "zyf",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0"
+  }
+}
